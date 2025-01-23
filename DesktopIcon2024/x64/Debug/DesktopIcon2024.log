@@ -1,0 +1,11 @@
+﻿  DesktopIcon2024.cpp
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(59,82): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(59,51): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(74,103): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(75,73): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(79,103): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(80,74): warning C4244: '=': conversion from 'double' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(142,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(285,86): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\xande\source\repos\DesktopIcon2024\DesktopIcon2024\DesktopIcon2024.cpp(285,55): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  DesktopIcon2024.vcxproj -> C:\Users\xande\source\repos\DesktopIcon2024\x64\Debug\DesktopIcon2024.exe
